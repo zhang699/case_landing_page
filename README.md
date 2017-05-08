@@ -1,4 +1,4 @@
-# teach-landing-page
+# case-landing-page
 
 > A Vue.js project
 
