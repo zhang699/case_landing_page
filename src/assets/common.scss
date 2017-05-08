@@ -1,0 +1,46 @@
+
+.center-flex-items {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.column-center-flex-item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  > * {
+    max-width: 100%;
+  }
+}
+
+.content-img {
+  width: 40%;
+  height: 40%;
+}
+
+.column {
+  min-width: 300px;
+  min-height: 300px;
+  flex: 1;
+}
+
+.wide {
+  flex: 4;
+}
+
+.small {
+  flex: 1;
+}
+
+.flex-wrap {
+  flex-wrap: wrap;
+}
+
+.pull-left {
+  left: 100px;
+}
+
+.pad {
+  padding: 10px 10px;
+}
