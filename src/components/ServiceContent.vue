@@ -16,8 +16,8 @@
     
     <div class="center-flex-items flex-wrap">
       <div class="column pad column-center-flex-item pull-left">
-        <h2>影像辨識</h2>
-        <p class="description">協助企業使用 Google Cloud Vision 進行影像處理</p>
+        <h2> 協助企業使用 Google Cloud Vision 影像辨識</h2>
+        <p class="service-content-text">Google Vision 是強大的影像處理服務，可以辨識上千種物品，然後進行分類。應用在<b><u>證件辨識系統</u></b>上，可以節省可觀的人力成本。</p>
       </div>
       <div class="column pad column-center-flex-item">
         <img src="../assets/eye.svg"
